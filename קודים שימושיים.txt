@@ -1,0 +1,18 @@
+   // קריאת קובץ
+StreamReader sr =File.OpenText(@"F:\\חומר הנדסאים\\c#\\project\\Tanach.txt");
+            String Tanach = sr.ReadToEnd();
+            sr.Close();
+            return Tanach;
+// יצירת json
+     string s = JsonConvert.SerializeObject(FillDictionary());
+            StreamWriter sw = File.CreateText(@"F:\\חומר הנדסאים\\c#\\project\\TanachJson.json");
+            sw.Write(s);            
+            sw.Close();
+// הדגשה
+      int blockStart = l[i];
+                    richTextBox1.SelectionStart = blockStart;
+                    richTextBox1.SelectionLength = blockLength;
+                    richTextBox1.SelectionBackColor = Color.Pink;
+// גלילה למקום מסויים
+ richTextBox1.SelectionStart =<האינדקס>;
+                richTextBox1.ScrollToCaret();

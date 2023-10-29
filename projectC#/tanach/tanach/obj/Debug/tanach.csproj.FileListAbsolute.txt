@@ -1,0 +1,12 @@
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\bin\Debug\tanach.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\bin\Debug\tanach.pdb
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\obj\Debug\tanach.csproj.AssemblyReference.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\obj\Debug\tanach.csproj.CoreCompileInputs.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\obj\Debug\tanach.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\obj\Debug\tanach.pdb
+M:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\bin\Debug\tanach.dll
+M:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\bin\Debug\tanach.pdb
+M:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\obj\Debug\tanach.csprojResolveAssemblyReference.cache
+M:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\obj\Debug\tanach.csproj.CoreCompileInputs.cache
+M:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\obj\Debug\tanach.dll
+M:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\tanach\obj\Debug\tanach.pdb

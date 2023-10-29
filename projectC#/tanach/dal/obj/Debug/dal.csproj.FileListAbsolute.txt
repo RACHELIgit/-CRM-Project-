@@ -1,0 +1,6 @@
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dal\bin\Debug\dal.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dal\bin\Debug\dal.pdb
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dal\obj\Debug\dal.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dal\obj\Debug\dal.pdb

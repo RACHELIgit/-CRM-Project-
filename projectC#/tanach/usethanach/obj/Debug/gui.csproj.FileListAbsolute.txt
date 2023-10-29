@@ -1,0 +1,98 @@
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\obj\Debug\gui.csproj.AssemblyReference.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\obj\Debug\usethanach.Form1.resources
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\obj\Debug\usethanach.Properties.Resources.resources
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\obj\Debug\gui.csproj.GenerateResource.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\obj\Debug\gui.csproj.CoreCompileInputs.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\obj\Debug\usethanach.exe
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\obj\Debug\usethanach.pdb
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\bin\Debug\usethanach.exe.config
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\bin\Debug\usethanach.exe
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\bin\Debug\usethanach.pdb
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\bin\Debug\BLL.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\bin\Debug\dall.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\bin\Debug\BLL.pdb
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\bin\Debug\dall.pdb
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\obj\Debug\gui.csproj.CopyComplete
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\bin\Debug\exeption.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\usethanach\bin\Debug\exeption.pdb
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\usethanach.exe.config
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\usethanach.exe
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\usethanach.pdb
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\BLL.dll
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\exeption.dll
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\dall.dll
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\BLL.pdb
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\exeption.pdb
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\dall.pdb
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csproj.AssemblyReference.cache
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.Form1.resources
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.Properties.Resources.resources
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csproj.GenerateResource.cache
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csproj.CoreCompileInputs.cache
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csproj.CopyComplete
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.exe
+I:\B\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\usethanach.exe.config
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\usethanach.exe
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\usethanach.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\BLL.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\exeption.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\dall.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\BLL.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\exeption.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\dall.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.Form1.resources
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.Properties.Resources.resources
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csproj.GenerateResource.cache
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csproj.CoreCompileInputs.cache
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csproj.CopyComplete
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.exe
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.pdb
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\BLL.dll
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\exeption.dll
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\dall.dll
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\BLL.pdb
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\exeption.pdb
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\dall.pdb
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csprojResolveAssemblyReference.cache
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.Form1.resources
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.Properties.Resources.resources
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csproj.GenerateResource.Cache
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csproj.CoreCompileInputs.cache
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.exe
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\usethanach.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Buffers.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Memory.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Numerics.Vectors.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Text.Encodings.Web.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Text.Json.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Threading.Tasks.Extensions.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.ValueTuple.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Buffers.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Memory.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Numerics.Vectors.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Text.Encodings.Web.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Text.Json.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.Threading.Tasks.Extensions.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\System.ValueTuple.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\Newtonsoft.Json.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\bin\Debug\Newtonsoft.Json.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\usethanach\obj\Debug\gui.csprojAssemblyReference.cache
+D:\searchProject\projectC#\tanach\usethanach\obj\Debug\gui.csprojAssemblyReference.cache
+D:\searchProject\projectC#\tanach\usethanach\obj\Debug\usethanach.Form1.resources
+D:\searchProject\projectC#\tanach\usethanach\obj\Debug\usethanach.Properties.Resources.resources
+D:\searchProject\projectC#\tanach\usethanach\obj\Debug\gui.csproj.GenerateResource.cache
+D:\searchProject\projectC#\tanach\usethanach\obj\Debug\gui.csproj.CoreCompileInputs.cache
+D:\searchProject\projectC#\tanach\usethanach\obj\Debug\usethanach.exe
+D:\searchProject\projectC#\tanach\usethanach\obj\Debug\usethanach.pdb
+F:\searchProject\projectC#\tanach\usethanach\obj\Debug\gui.csproj.AssemblyReference.cache
+F:\searchProject\projectC#\tanach\usethanach\obj\Debug\usethanach.Form1.resources
+F:\searchProject\projectC#\tanach\usethanach\obj\Debug\usethanach.Properties.Resources.resources
+F:\searchProject\projectC#\tanach\usethanach\obj\Debug\gui.csproj.GenerateResource.cache
+F:\searchProject\projectC#\tanach\usethanach\obj\Debug\gui.csproj.CoreCompileInputs.cache
+F:\searchProject\projectC#\tanach\usethanach\obj\Debug\usethanach.exe
+F:\searchProject\projectC#\tanach\usethanach\obj\Debug\usethanach.pdb

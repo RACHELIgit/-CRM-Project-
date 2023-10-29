@@ -1,0 +1,36 @@
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\exeption\bin\Debug\exeption.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\exeption\bin\Debug\exeption.pdb
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\exeption\obj\Debug\exeption.csproj.AssemblyReference.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\exeption\obj\Debug\exeption.csproj.CoreCompileInputs.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\exeption\obj\Debug\exeption.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\exeption\obj\Debug\exeption.pdb
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\bin\Debug\exeption.dll
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\bin\Debug\exeption.pdb
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\obj\Debug\exeption.csprojResolveAssemblyReference.cache
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\obj\Debug\exeption.csproj.CoreCompileInputs.cache
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\obj\Debug\exeption.dll
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\obj\Debug\exeption.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\bin\Debug\exeption.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\bin\Debug\exeption.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\obj\Debug\exeption.csproj.CoreCompileInputs.cache
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\obj\Debug\exeption.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\obj\Debug\exeption.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\exeption\obj\Debug\exeption.csprojAssemblyReference.cache
+D:\פרויקט\projectC#\tanach\exeption\bin\Debug\exeption.dll
+D:\פרויקט\projectC#\tanach\exeption\bin\Debug\exeption.pdb
+D:\פרויקט\projectC#\tanach\exeption\obj\Debug\exeption.csprojAssemblyReference.cache
+D:\פרויקט\projectC#\tanach\exeption\obj\Debug\exeption.csproj.CoreCompileInputs.cache
+D:\פרויקט\projectC#\tanach\exeption\obj\Debug\exeption.dll
+D:\פרויקט\projectC#\tanach\exeption\obj\Debug\exeption.pdb
+D:\searchProject\projectC#\tanach\exeption\bin\Debug\exeption.dll
+D:\searchProject\projectC#\tanach\exeption\bin\Debug\exeption.pdb
+D:\searchProject\projectC#\tanach\exeption\obj\Debug\exeption.csprojAssemblyReference.cache
+D:\searchProject\projectC#\tanach\exeption\obj\Debug\exeption.csproj.CoreCompileInputs.cache
+D:\searchProject\projectC#\tanach\exeption\obj\Debug\exeption.dll
+D:\searchProject\projectC#\tanach\exeption\obj\Debug\exeption.pdb
+F:\searchProject\projectC#\tanach\exeption\bin\Debug\exeption.dll
+F:\searchProject\projectC#\tanach\exeption\bin\Debug\exeption.pdb
+F:\searchProject\projectC#\tanach\exeption\obj\Debug\exeption.csproj.AssemblyReference.cache
+F:\searchProject\projectC#\tanach\exeption\obj\Debug\exeption.csproj.CoreCompileInputs.cache
+F:\searchProject\projectC#\tanach\exeption\obj\Debug\exeption.dll
+F:\searchProject\projectC#\tanach\exeption\obj\Debug\exeption.pdb

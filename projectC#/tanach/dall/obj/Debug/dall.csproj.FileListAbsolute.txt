@@ -1,0 +1,95 @@
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dall\bin\Debug\dall.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dall\bin\Debug\dall.pdb
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dall\obj\Debug\dall.csproj.AssemblyReference.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dall\obj\Debug\dall.csproj.CoreCompileInputs.cache
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dall\obj\Debug\dall.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dall\obj\Debug\dall.pdb
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dall\bin\Debug\exeption.dll
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dall\bin\Debug\exeption.pdb
+G:\Handesaim\BData\C#\רחלי ד\projectC#\tanach\dall\obj\Debug\dall.csproj.CopyComplete
+I:\B\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\dall.dll
+I:\B\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\dall.pdb
+I:\B\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\exeption.dll
+I:\B\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\exeption.pdb
+I:\B\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.csproj.AssemblyReference.cache
+I:\B\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.csproj.CoreCompileInputs.cache
+I:\B\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.csproj.CopyComplete
+I:\B\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.dll
+I:\B\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\dall.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\dall.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\exeption.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\exeption.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.csproj.CoreCompileInputs.cache
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.csproj.CopyComplete
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.pdb
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\dall.dll
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\dall.pdb
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\exeption.dll
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\exeption.pdb
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.csprojResolveAssemblyReference.cache
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.csproj.CoreCompileInputs.cache
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.dll
+M:\Handesaim\B\group2\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.pdb
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\Newtonsoft.Json.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\Newtonsoft.Json.xml
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\System.Memory.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\System.Text.Encodings.Web.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\System.Numerics.Vectors.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\System.Threading.Tasks.Extensions.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\bin\Debug\System.Buffers.dll
+I:\B\group2\RACHELI  D\C#\projectC#\tanach\dall\obj\Debug\dall.csprojAssemblyReference.cache
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\dall.dll
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\dall.pdb
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\exeption.dll
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\Newtonsoft.Json.dll
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\System.Memory.dll
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\System.Text.Encodings.Web.dll
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\System.Numerics.Vectors.dll
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\System.Buffers.dll
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\exeption.pdb
+D:\פרויקט\projectC#\tanach\dall\bin\Debug\Newtonsoft.Json.xml
+D:\פרויקט\projectC#\tanach\dall\obj\Debug\dall.csprojAssemblyReference.cache
+D:\פרויקט\projectC#\tanach\dall\obj\Debug\dall.csproj.CoreCompileInputs.cache
+D:\פרויקט\projectC#\tanach\dall\obj\Debug\dall.csproj.CopyComplete
+D:\פרויקט\projectC#\tanach\dall\obj\Debug\dall.dll
+D:\פרויקט\projectC#\tanach\dall\obj\Debug\dall.pdb
+D:\searchProject\projectC#\tanach\dall\bin\Debug\dall.dll
+D:\searchProject\projectC#\tanach\dall\bin\Debug\dall.pdb
+D:\searchProject\projectC#\tanach\dall\bin\Debug\exeption.dll
+D:\searchProject\projectC#\tanach\dall\bin\Debug\Newtonsoft.Json.dll
+D:\searchProject\projectC#\tanach\dall\bin\Debug\System.Memory.dll
+D:\searchProject\projectC#\tanach\dall\bin\Debug\System.Text.Encodings.Web.dll
+D:\searchProject\projectC#\tanach\dall\bin\Debug\System.Numerics.Vectors.dll
+D:\searchProject\projectC#\tanach\dall\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\searchProject\projectC#\tanach\dall\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\searchProject\projectC#\tanach\dall\bin\Debug\System.Buffers.dll
+D:\searchProject\projectC#\tanach\dall\bin\Debug\exeption.pdb
+D:\searchProject\projectC#\tanach\dall\bin\Debug\Newtonsoft.Json.xml
+D:\searchProject\projectC#\tanach\dall\obj\Debug\dall.csprojAssemblyReference.cache
+D:\searchProject\projectC#\tanach\dall\obj\Debug\dall.csproj.CoreCompileInputs.cache
+D:\searchProject\projectC#\tanach\dall\obj\Debug\dall.csproj.CopyComplete
+D:\searchProject\projectC#\tanach\dall\obj\Debug\dall.dll
+D:\searchProject\projectC#\tanach\dall\obj\Debug\dall.pdb
+F:\searchProject\projectC#\tanach\dall\bin\Debug\dall.dll
+F:\searchProject\projectC#\tanach\dall\bin\Debug\dall.pdb
+F:\searchProject\projectC#\tanach\dall\bin\Debug\exeption.dll
+F:\searchProject\projectC#\tanach\dall\bin\Debug\Newtonsoft.Json.dll
+F:\searchProject\projectC#\tanach\dall\bin\Debug\System.Text.Json.dll
+F:\searchProject\projectC#\tanach\dall\bin\Debug\System.Memory.dll
+F:\searchProject\projectC#\tanach\dall\bin\Debug\System.Text.Encodings.Web.dll
+F:\searchProject\projectC#\tanach\dall\bin\Debug\System.Numerics.Vectors.dll
+F:\searchProject\projectC#\tanach\dall\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\searchProject\projectC#\tanach\dall\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\searchProject\projectC#\tanach\dall\bin\Debug\System.Buffers.dll
+F:\searchProject\projectC#\tanach\dall\bin\Debug\exeption.pdb
+F:\searchProject\projectC#\tanach\dall\bin\Debug\Newtonsoft.Json.xml
+F:\searchProject\projectC#\tanach\dall\obj\Debug\dall.csproj.AssemblyReference.cache
+F:\searchProject\projectC#\tanach\dall\obj\Debug\dall.csproj.CoreCompileInputs.cache
+F:\searchProject\projectC#\tanach\dall\obj\Debug\dall.csproj.CopyComplete
+F:\searchProject\projectC#\tanach\dall\obj\Debug\dall.dll
+F:\searchProject\projectC#\tanach\dall\obj\Debug\dall.pdb
